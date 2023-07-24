@@ -1,0 +1,30 @@
+
+body{
+    color: #6c2a09;
+    background-color: #dfc7b9;
+    font-family: "Papyrus",fantasy;
+}
+
+footer{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+
+.button {
+    background-color: darkorange;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:0%;
+    cursor: pointer;
+    border-radius: 15px;
+    
+  }
+
+
